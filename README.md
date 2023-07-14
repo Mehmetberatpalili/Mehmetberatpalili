@@ -1,7 +1,10 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 💫 🔭About Me: 
 <br>
-<br>Hello, I am Mehmet, <br>I am proficient in web programming (C#, PHP, SQL) languages <br>​​in the software field, and I am also dealing with UI & XD, Graphic Designer.
+<br>
+Hello, I am Mehmet, <br>I am proficient in web programming (C#, PHP, SQL) languages <br>​​in the software field, and I am also dealing with UI & XD, Graphic Designer. 
+<br>
+🇹🇷 Merhaba ben Mehmet, <br>Yazılım alanında web programlama (C#, PHP, SQL) dillerine hakimim ve ayrıca UI & XD, grafik Tasarım ile uğraşıyorum. 🇹🇷
 <br>
 <br>
 
