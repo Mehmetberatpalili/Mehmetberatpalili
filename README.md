@@ -12,6 +12,4 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mehmetberatpalili&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mehmet Berat PALİLİ&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
