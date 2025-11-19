@@ -2,9 +2,9 @@
 💫 🔭About Me: 
 <br>
 <br>
-Hello, I am Mehmet, <br>I am proficient in web programming (C#, PHP, SQL) languages <br>​​in the software field, and I am also dealing with UI & XD, Graphic Designer. 
+Hello, I am Mehmet, <br>I am proficient in web programming (C#, PHP, C++) languages <br>​​in the software field, and I am also dealing with UI & XD, Graphic Designer. 
 <br>
-🇹🇷 Merhaba ben Mehmet, <br>Yazılım alanında web programlama (C#, PHP, SQL) dillerine hakimim ve ayrıca UI & XD, grafik Tasarım ile uğraşıyorum. 🇹🇷
+🇹🇷 Merhaba ben Mehmet, <br>Yazılım alanında web programlama (C#, PHP, C++) dillerine hakimim ve ayrıca UI & XD, grafik Tasarım ile uğraşıyorum. 🇹🇷
 <br>
 <br>
 
