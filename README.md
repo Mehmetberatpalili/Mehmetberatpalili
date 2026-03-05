@@ -3,9 +3,9 @@
 <br>
 <br>
 Hello,.
-I am a software developer experienced in **C#, PHP, and C++**, with a strong focus on **embedded systems, IoT architectures, and LoRaWAN-based data acquisition systems.
-My work involves developing **device firmware, sensor integration, and reliable telemetry pipelines** using protocols such as **MQTT, TCP/IP, and LoRaWAN**. I design and implement **scalable IoT solutions**, connecting edge devices to cloud infrastructures, primarily leveraging **Microsoft Azure services**.
-I am particularly interested in **low-power wireless communication, real-time data processing, and cloud-connected monitoring systems**, building robust solutions that bridge **embedded hardware with modern cloud platforms**.
+I am a software developer experienced in C#, PHP, and C++, with a strong focus on embedded systems, IoT architectures, and LoRaWAN-based data acquisition systems.
+My work involves developing device firmware, sensor integration, and reliable telemetry pipelines using protocols such as MQTT, TCP/IP, and LoRaWAN. I design and implement scalable IoT solutions, connecting edge devices to cloud infrastructures, primarily leveraging Microsoft Azure services.
+I am particularly interested in low-power wireless communication, real-time data processing, and cloud-connected monitoring systems, building robust solutions that bridge embedded hardware with modern cloud platforms.
 
 
 <br>
