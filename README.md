@@ -1,6 +1,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 💫 🔭About Me: 
-<br>
+<br><br>
+
 <br>
 I am a software developer experienced in C#, PHP, and C++, with a strong focus on embedded systems, IoT architectures, and LoRaWAN-based data acquisition systems.
 My work involves developing device firmware, sensor integration, and reliable telemetry pipelines using protocols such as MQTT, TCP/IP, and LoRaWAN. I design and implement scalable IoT solutions, connecting edge devices to cloud infrastructures, primarily leveraging Microsoft Azure services.
